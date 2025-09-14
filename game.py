@@ -31,6 +31,7 @@ def game():
             break
         else:
             print("You lose")
+            print("Sorry")
     print()
     print("Thanks for playing")
 
